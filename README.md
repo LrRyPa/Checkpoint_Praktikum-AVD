@@ -1,4 +1,4 @@
-# Checkpoint1_Praktikum-AVD
+# Praktikum_AVD
 
 * Nama: Larry Polin Anugrah
 
